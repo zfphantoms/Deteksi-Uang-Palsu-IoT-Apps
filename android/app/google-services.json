@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "182288120841",
+    "firebase_url": "https://deteksi-uang-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "deteksi-uang-app",
+    "storage_bucket": "deteksi-uang-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182288120841:android:2cfee5f68ebc477e30ccd8",
+        "android_client_info": {
+          "package_name": "com.example.iot_cek_uang_palsu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBefp2h9dDoUk08jkuDJ2JBE32ipCtNesM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
